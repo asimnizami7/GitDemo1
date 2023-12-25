@@ -32,6 +32,8 @@ public class asdf {
 		System.out.println(name);
 		//driver.close();
 		
+		System.out.println("i have loged in sucessfully in FB page");
+		
 		
 		
 		
