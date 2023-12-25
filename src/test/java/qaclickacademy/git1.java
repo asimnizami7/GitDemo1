@@ -10,6 +10,8 @@ public class git1 {
 		System.out.println("hello world!");
 		System.out.println("hello Asim!");
 		System.out.println("hello java!");
+		System.out.println("syed asim nizami");
+		System.out.println("java developer beginner");
 
 	}
 
